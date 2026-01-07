@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-resp-search",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Development", "Developer Tools"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/secures92/n8n-nodes-resp#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/secures92/n8n-nodes-resp"
+			}
+		]
+	}
+}
